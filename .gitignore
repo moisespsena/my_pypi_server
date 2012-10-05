@@ -1,0 +1,9 @@
+.*
+*~
+*.swp
+*.pyc
+*.egg*
+__pycache__
+build
+bin
+dist
